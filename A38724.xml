@@ -1,0 +1,1223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegies on the much lamented death of the honourable and worthy patriot, Francis Pierepont, Esq., third son of the Right Honourable Robert, Earl of Kingston, who dyed at Nottingham the 30th day of January, 1657/8</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38724</idno>
+            <idno type="STC">Wing E340</idno>
+            <idno type="STC">ESTC R14753</idno>
+            <idno type="EEBO-CITATION">13590654</idno>
+            <idno type="OCLC">ocm 13590654</idno>
+            <idno type="VID">100656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100656)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 788:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elegies on the much lamented death of the honourable and worthy patriot, Francis Pierepont, Esq., third son of the Right Honourable Robert, Earl of Kingston, who dyed at Nottingham the 30th day of January, 1657/8</title>
+                  <author>Pottlintun, O.</author>
+               </titleStmt>
+               <extent>[35] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page [8] signed: O. Pottlintun.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pierrepont, Francis, d. 1658.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100656:1"/>
+            <pb facs="tcp:100656:1"/>
+            <p>ELEGIES On the much Lamented Death of the Honourable and Worthy Patriot, <hi>FRANCIS PIEREPONT,</hi> Eſq. Third Son of the Right Honourable ROBERT, EARL OF KINGSTON, <hi>Who dyed at</hi> Nottingham <hi>the</hi> 30<hi rend="sup">th.</hi> 
+               <hi>day of</hi> Ianuary, 1657/8.</p>
+            <p>Printed in the Year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100656:2"/>
+            <pb facs="tcp:100656:2"/>
+            <div type="poem">
+               <head>TO THE HONOURABLE THE LADY <hi>Aliſamon Pierepont.</hi>
+               </head>
+               <opener>
+                  <salute>MADAM,</salute>
+               </opener>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen Debtors all have brought their haſty Crop,</l>
+               <l>You well may wonder at my tedious ſtop:</l>
+               <l>I'm angry at my ſelf, and think to pay,</l>
+               <l>But ſtraight an inward whiſper bids me ſtay.</l>
+               <l>'Tis conſcience tels me that I owe too much;</l>
+               <l>Great Debts are ſlow, and mine I'm ſure is ſuch.</l>
+               <l>This Tortoiſe pace is properly my own,</l>
+               <l>Who in this kind can ſhew no currant coyn.</l>
+               <l>Nature lent me not one propitious Muſe,</l>
+               <l>And ſince I had the Schools farewel, I uſe</l>
+               <l>
+                  <pb facs="tcp:100656:3"/>With Poets at no time to hold commerce:</l>
+               <l>'Tis indignation now, that dictates Verſe.</l>
+               <l>What may ſeem ſharp, let then imputed be</l>
+               <l>To that unruly Paſſion, not to me.</l>
+               <l>What's dull and flat, you may call truly mine;</l>
+               <l>That is the mark which proves it genuine.</l>
+               <l>If ought be thought, beyond the Moon; know I</l>
+               <l>A Star for ſubject have, that's pierc'd the skie.</l>
+               <l>Then take them, Madam, read, weigh, and excuſe;</l>
+               <l>If others ſnarle, and cenſure, ſay but thus,</l>
+               <l>The Author tempts his Stars beyond their light,</l>
+               <l>To offer up a Duty in my ſight,</l>
+               <l>Who knows his obligations, and muſt ſay,</l>
+               <l>All falls farre ſhort of what He ought to pay.</l>
+               <closer>
+                  <signed>O. P.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:3"/>
+               <head>MEMORIAE VIRI ILLUSTRIS FRANCISCI PIEREPONT, Nobilitate, doctrinâ, pietate, ſuavitate-morum, &amp; fortunâ florenti.</head>
+               <l>
+                  <hi>O</hi> Nulli proavis &amp; nobilitate ſecunde!</l>
+               <l>Sed placida cunctis humilitate minor,</l>
+               <l>I ſurſum, magno dextram conjunge Magiſtro,</l>
+               <l>Quo major nullus humiliorque fuit.</l>
+               <l>Qui potuit miro ſummus licet incremento</l>
+               <l>Humilitate ſuum nobilitare decus.</l>
+               <l>Te Domini mites animos, moreſque ſequutum</l>
+               <l>Haud dubie Domini gloria dia beat.</l>
+               <closer>
+                  <signed>
+                     <hi>Summo virtutis ejus ad<g ref="char:EOLhyphen"/>miratori appoſuit</hi> Ludovicus Molinaeus, <hi>Hiſtoriarum Profeſſor.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:4"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the ſenſible loſſe of the Honourable <hi>FRANCIS PIEREPONT,</hi> Eſq. who departed hence <hi>Jan. 30th. 1657.</hi>
+               </head>
+               <lg>
+                  <l>BLUſh! Bluſh remorſleſs <hi>Parcae!</hi> Was not your Names</l>
+                  <l>
+                     <hi>Antiphraſis</hi> confirm'd enough, till Fames</l>
+                  <l>Sad Trumpet tels the World, a Potentate,</l>
+                  <l>A Pillar of the Church, a Prop of State</l>
+                  <l>Is wholly ſunk? Forc'd by what fatal Muſt,</l>
+                  <l>Cut you at once the thread of Great, Good, Juſt?</l>
+                  <l>This ſpeaks your envy to Mankind, for we</l>
+                  <l>Could draw by Him Virtues Epitome.</l>
+                  <l>Liſt; worſt of the three Daughters of the Night;</l>
+                  <l>I muſt proclaim thy everlaſting ſpight.</l>
+                  <l>Th' haſt rob'd me of a Noble, Learned Friend,</l>
+                  <l>With whom no precious hour I e're could ſpend,</l>
+                  <l>But ſome encreaſe of Knowledge in me wrought,</l>
+                  <l>Some favour heap'd, or elſe ſome Virtue taught.</l>
+                  <l>For would I what was vain and idle fly?</l>
+                  <l>'Twas then enough to keep him company.</l>
+                  <l>Was Good my thirſt? His Soul did it diſplay</l>
+                  <l>By a moſt gentle, and familiar way:</l>
+                  <l>And in His noble body thus inſhrin'd,</l>
+                  <l>Nobility it ſelf hath far out-ſhin'd.</l>
+                  <l>He ſuck'd no Sophiſmes from the Schools, to raiſe</l>
+                  <l>Sins Dark-Lanthorn, our purblind Reaſon's praiſe</l>
+                  <l>(That <hi>Ignis fatuus,</hi> which 'twixt Good and Bad,</l>
+                  <l>Curs'd Mortals in a miſt hath alwaies led.)</l>
+                  <l>Above the Soul's eſſential Faculty,</l>
+                  <l>That bright, firſt-breath'd Lamp of Innocency:</l>
+                  <l>But did eclipſe the Badge of humane fall</l>
+                  <l>With Science purely Intellectuall,</l>
+                  <l>
+                     <pb facs="tcp:100656:4"/>Which own'd Gods Type, and in His Cask of Clay</l>
+                  <l>Enjoy'd the Virgin Light of its firſt day.</l>
+                  <l>His private Alms he alwaies ſtrove to ſmother,</l>
+                  <l>One hand in them was ſtranger to its Brother:</l>
+                  <l>His publick Deed's but a Record to ſhow</l>
+                  <l>What Governours of Hoſpitals ſhould doe;</l>
+                  <l>Improve the Patrimony of the Poor,</l>
+                  <l>Not pocket up their Rents, but give them more.</l>
+                  <l>He taught, not bound His Offspring Charity,</l>
+                  <l>Who then's her ſelf when in full Liberty.</l>
+                  <l>Would Rich men then in <hi>Pierepoint's</hi> footſteps tread,</l>
+                  <l>The poor need not to ask or cloths, or bread.</l>
+                  <l>He could <hi>Aſtraea</hi>'s Sword directly weild,</l>
+                  <l>Knew whom to puniſh with it, whom to ſhield.</l>
+                  <l>The Ballance He 'twixt all could evenly poize,</l>
+                  <l>To charm their diſcord, and their jarring noiſe.</l>
+                  <l>He lov'd the ancient Scripture-Hierarchy,</l>
+                  <l>The Ruling-Elder with's Presbytery:</l>
+                  <l>But when high Northern blaſts by th' root had torn</l>
+                  <l>Thoſe ever-virid Yews, and almoſt born</l>
+                  <l>The tottring Temple down; He help'd to ſhroud</l>
+                  <l>Their naked Members under <hi>Jonah's</hi> Gourd.</l>
+                  <l>And i'th' ſpight of Criticks, He'd rather bear</l>
+                  <l>A Soloeciſme in Church, (Lay-Presbyter)</l>
+                  <l>Then ſee it, Monſter-like, without a Head.</l>
+               </lg>
+               <lg>
+                  <l>But now He's Dead! that Pious man is Dead!</l>
+                  <l>Dead did I ſay? Oh falſe Opinion!</l>
+                  <l>Pure Gold's not ſubject to corruption.</l>
+                  <l>The skilful Artiſt to delude the eye,</l>
+                  <l>Can, by a mixture of crude Mercury,</l>
+                  <l>Turn it to duſt; and with as eaſie ſleight,</l>
+                  <l>By <hi>Vulcan</hi>'s help, caſt it again more bright:</l>
+                  <l>But though he ſweat, puff, blow, and try his all,</l>
+                  <l>He finds that body Homogeneal.</l>
+                  <l>Call then the Sons of Art, they'l thus the Proceſs read</l>
+                  <l>In proper tearms:</l>
+                  <l>
+                     <pb facs="tcp:100656:5"/>This now innobled Lead</l>
+                  <l>A veſſel's of Almighty-Chymiſtry.</l>
+                  <l>The Body ſeparate from its Soul, which we</l>
+                  <l>Saw lock'd with <hi>Hermes</hi> ſeal from mortals eyes,</l>
+                  <l>Great <hi>Piereponts</hi> body, now <hi>Fermenting</hi> lyes</l>
+                  <l>In Natures prouder womb, where't ſhortly muſt</l>
+                  <l>By <hi>Saturns</hi> cold be fix'd in noble duſt:</l>
+                  <l>Whence when the fierie Tryal it hath run</l>
+                  <l>'Twill riſe more glorious than the morning Sun,</l>
+                  <l>To re-inveſt its widdow-ſoul from ground,</l>
+                  <l>Call'd up by'th laſt ſhril Trumpets joyful ſound:</l>
+                  <l>And joyntly Both new link'd inſeparably,</l>
+                  <l>Preſent their claim to Immortality.</l>
+                  <l>Then ſtyle't not Death, which the firſt ſtep muſt be</l>
+                  <l>To lift us up to our Eternity.</l>
+               </lg>
+               <lg>
+                  <l>Here's comfort, Madam, be not <hi>á la mort,</hi>
+                  </l>
+                  <l>Your longer ſtay caſts you not one day ſhort.</l>
+                  <l>Your Husband ſhould goe firſt, but in this wheel</l>
+                  <l>You and we all tread cloſely on his heel.</l>
+               </lg>
+               <closer>
+                  <signed>O. Pottlintun.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:5"/>
+               <head>An Elegy expoſtulating Deaths arreſt upon my Honourable, dear, and noble Freind, <hi>Mr. Francis Pierrepoint</hi> Eſq,</head>
+               <lg>
+                  <l>AVant, grim Serjeant, with thy griſly Face,</l>
+                  <l>Be gone, Ile break thy bald pate, and thy glaſſe</l>
+                  <l>If th' entreſt here; this is no common ground</l>
+                  <l>Thou Rogue, thou treadſt on, no, it will be found,</l>
+                  <l>The Lord of th' ſoyle thou ſeekſt for is of Fame</l>
+                  <l>Above Arreſt; knowſt any of the name</l>
+                  <l>Of <hi>Pierrepont</hi> Debtors? Tis a name we know</l>
+                  <l>For Wealth, for Learning, and for Wiſdome too</l>
+                  <l>The Nation boaſts of; (beſides high diſcent</l>
+                  <l>Which others have, which all the other want.)</l>
+                  <l>Such as have ſeen the Vatican at <hi>Rome,</hi>
+                     <note n="*" place="margin">Lord Marqueſſe.</note> 
+                     <note n="*" place="margin">Mr Willi<g ref="char:EOLhyphen"/>am Piere<g ref="char:EOLhyphen"/>pont.</note> 
+                     <note n="*" place="margin">Mr. Fran. Pierepont.</note>
+                  </l>
+                  <l>Say <hi>Pierrepont</hi> lives the Vatican at <hi>Holme.</hi>
+                  </l>
+                  <l>States who fetcht Wiſdom from the men of <hi>Greece,</hi>
+                  </l>
+                  <l>Confeſſe one <hi>Pierrepont</hi> then the ſeven more wiſe.</l>
+                  <l>Whilſt all of all ſorts do atteſt this truth,</l>
+                  <l>Second to none, is third Brother to both:</l>
+                  <l>And dar'ſt thou arreſt him? He can retain</l>
+                  <l>The greateſt ſchollar, and the wiſeſt man</l>
+                  <l>(Advocates of his own houſe) to plead his cauſe</l>
+                  <l>Beſides his Inno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ence and our juſt Lawes.</l>
+                  <l>Thus for my Freind, expoſtulating I</l>
+                  <l>(Maugre my threats) was made me this reply,</l>
+                  <l>Pale death with equal foot attends the doore</l>
+                  <l>Of Pallaces and Cottages ful poore,</l>
+                  <l>By ſtatute Law there's an appointed day</l>
+                  <l>When rich as poore Dame Natures debt muſt pay.</l>
+                  <l>The great, the good, the juſt, the wiſe, the high,</l>
+                  <l>Princes and <hi>Pierreponts</hi> too, they all muſt dye.</l>
+                  <l>And muſt he die then? rather is he dead</l>
+                  <l>Was there no Proxy to appear in's ſtead?</l>
+                  <l>
+                     <pb facs="tcp:100656:6"/>Might not one poor Debt be forgiven him,</l>
+                  <l>Who many a poor man's Debt had oft forgiven?</l>
+                  <l>'Tis payd, 'tis payd. Then Reader paſſe not by</l>
+                  <l>But pay a Tear, if not an Elegy</l>
+                  <l>As tributary to his noble Hearſe,</l>
+                  <l>Whoſe name wil ſtand in Proſe as well as Verſe:</l>
+                  <l>And needs no Poet to proclaime him good</l>
+                  <l>In words rather expreſt, then underſtood.</l>
+                  <l>Whilſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho him underſtood knew him a man</l>
+                  <l>Meek, not Moroſe, though Presbyterian,</l>
+                  <l>Had only ſuch been truſted with that key</l>
+                  <l>Good men had all been for Presbytery;</l>
+                  <l>Though vaſt in parts, and Patrimony rather,</l>
+                  <l>H' appear'd a giving, then a gifted Brother,</l>
+                  <l>And yet his gifts were high enough to reach</l>
+                  <l>As far to judge, as any man's to preach.</l>
+               </lg>
+               <lg>
+                  <l>Grace crown'd his gifts; glory now crownes his graces:</l>
+                  <l>Heav'n with ſupplies fill up ſuch vacant places.</l>
+               </lg>
+               <closer>
+                  <signed>
+                     <hi>Sic cecinit Lachrymans; Sic Lachrymans precatur.</hi> G. Pigot.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:6"/>
+               <head>Vpon the much lamented Death of the Honou<g ref="char:EOLhyphen"/>rable <hi>FRANCIS PIEREPONT</hi> Eſq,</head>
+               <l>EAch Debtor has been call'd his dues to bring,</l>
+               <l>Of juſt acknowledgements an Offering</l>
+               <l>To make upon the ſad and mournful Urne</l>
+               <l>Of this Beloved Saint, ſhal others mourne,</l>
+               <l>Much leſſe concern'd then I? I ſilent ſtand,</l>
+               <l>Whom you when living might of right command,</l>
+               <l>To whom I ought of Love, and ſervice more,</l>
+               <l>Then if my All was ſould would pay that ſcore.</l>
+               <l>Dame Natures Debt, or yours, I know not whether</l>
+               <l>The greater, but like to be clear'd together</l>
+               <l>So great a ſumme requires a longer day,</l>
+               <l>I now the Intereſt alone can pay.</l>
+               <l>But why ſo long, ere that comes in my Muſe?</l>
+               <l>Oh! blame me not, heark to my juſt Excuſe:</l>
+               <l>My Plumes have been ſo ſteept in teares, that I</l>
+               <l>Could not til now get wing, neither ſo high</l>
+               <l>As others can I ſoare; I've only breath</l>
+               <l>To crawle upon the ground, and chide with Death,</l>
+               <l>Who hath bereft me, and not me alone,</l>
+               <l>But ev'n the Church, and Common-Wealth of one,</l>
+               <l>Whoſe parts and virtues will eclipſed be,</l>
+               <l>If my dul pen ſet forth his Elegy.</l>
+               <l>I'le only hint, what in a larger ſtory.</l>
+               <l>More fully may be ſpoke of <hi>Piereponts</hi> glory.</l>
+               <l>Nature being laviſh to 'm with art did ſtrive,</l>
+               <l>Which longeſt ſhould his name preſerve alive.</l>
+               <l>Heralds he left his birth to tell, did ſcorne</l>
+               <l>That, as below a perſon Heaven borne.</l>
+               <l>Heroick Acts not words, ſpoke his Diſcent,</l>
+               <l>His Freindſhip real was 'bove Complement,</l>
+               <l>
+                  <pb facs="tcp:100656:7"/>His noble ſpirit deck't with humility,</l>
+               <l>His humble ſoule inrich't with Majeſty,</l>
+               <l>His Juſtice gave to every one his own,</l>
+               <l>His Wiſdome ſav'd his. His Charity was ſown</l>
+               <l>In each fit ſoile. His Piety was free,</l>
+               <l>From common errors, or State policy.</l>
+               <l>Pious and politick, rare in our State,</l>
+               <l>Theſe in a Stateſman ſhould concenterate.</l>
+               <l>Hold Muſe, the Field is large, ſhould'ſt over run</l>
+               <l>Thy ſelf, canſt thou add Luſtre to the Sun?</l>
+               <l>Darken it thou doſt, its time now to retire</l>
+               <l>Sigh out thy remnant dayes, obſerve, admire</l>
+               <l>What cannot by the loftieſt ſtile b'expreſt,</l>
+               <l>Labour to imitate, lets not diſturb the reſt.</l>
+               <l>Of this deare ſoule, with thy Caeleſtiall Graces</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le repone te</hi> in Heavens imbraces.</l>
+               <closer>
+                  <signed>Collonell White:</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:7"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the much lamented Death of the Honourable <hi>Francis Pierrepont</hi> Eſq,</head>
+               <l>VVEll may I be aſham'd and bluſh that in</l>
+               <l>This Worthies praiſes I have ſilent bin,</l>
+               <l>When others trumpets ſound ſo loud, that I</l>
+               <l>Might (though unfit to ſpeake) an Eccho be;</l>
+               <l>But greif thats great vents ſlowly, firſt it will</l>
+               <l>Utter it ſelf in briny teares, which ſtill</l>
+               <l>The Pen may ſteep in, that ſtrives to expreſſe</l>
+               <l>What 'tis to want ſo great a happineſſe,</l>
+               <l>As I and more enjoy'd, whilſt the Sun ſhone clear</l>
+               <l>Now (alas!) ſet in this our Hemiſphere.</l>
+               <l>Pardon then Reader (when 'tis ſo great worth)</l>
+               <l>If my dull Muſe fall ſhort in ſetting forth.</l>
+               <l>In ſuch a publick cauſe, it is I ſee,</l>
+               <l>Hard to ſpeak full, as hard to ſilent be.</l>
+               <l>O! how my greif renewes, while each freſh thought</l>
+               <l>Of him, (cloath'd with a ſigh heart-deep,) breakes out</l>
+               <l>In broken Language, that the World may tell</l>
+               <l>My loſſe, but only they that feel't can ſpell</l>
+               <l>My meaning out, but leſt the torrent ſhould</l>
+               <l>Too ſoon drye up, I cannot but behold,</l>
+               <l>How the Wound bleeds afreſh in's conſorts eyes,</l>
+               <l>Whilſt ſhee think's on her deareſt's Obſequies;</l>
+               <l>As the widow'd Dove deprived of her Mate</l>
+               <l>To greive is all her joy, to mourne her State:</l>
+               <l>Her teares her daily bread are, as if he</l>
+               <l>(Who in one moment ceaſed for to be)</l>
+               <l>Was by th' all wiſe creator, (who in vaine</l>
+               <l>Does nought) each minute giv'n and tak'n againe</l>
+               <l>Her loſſe ſo great, as he that doth it view,</l>
+               <l>May think what Poets faine, might here prove true;</l>
+               <l>
+                  <pb facs="tcp:100656:8"/>With Greif one turned quite into a ſtone:</l>
+               <l>Nature would yeild, indeed, 'tis grace alone</l>
+               <l>Makes this a fiction; yet the ſword cuts deep,</l>
+               <l>And when God ſtrikes, then it is grace to weep:</l>
+               <l>Excuſe her paſſion then, becauſe her head,</l>
+               <l>Her joy, part of her ſelfe, her Husband's dead.</l>
+               <l>Death only could that knot unty, where Love</l>
+               <l>Inform'd two bodies with one ſoule, to prove</l>
+               <l>There was not Freindſhip here, but unity.</l>
+               <l>And he, though dead, lives in her memory,</l>
+               <l>And ſtill will live: His name's not writ i'th ſand:</l>
+               <l>A nobler Tombe inſhrines him, whoſe command</l>
+               <l>Ore each rebellious paſſion ſhew'd how far</l>
+               <l>He did excell what common Mortalls are.</l>
+               <l>Though high, yet humble, high in parts, not pride;</l>
+               <l>His power great, his pittie nere deny'd,</l>
+               <l>The poore mans ſuit, who ere had cauſe to ſay</l>
+               <l>He came complaining, that went ſad away?</l>
+               <l>Learn'd in what was worth his ſtudy; and that</l>
+               <l>His cheif delight was to communicate.</l>
+               <l>Thus virtue, that in's greener yeares did lye</l>
+               <l>Sown in his heart, grew to maturity;</l>
+               <l>Till's Harveſt came, when he full ripe, from us</l>
+               <l>Was take'n and layd amongſt what's precious</l>
+               <l>In Gods peculiar ſtore houſe, where he ſtayes</l>
+               <l>Waiting to ſee thoſe long expected dayes,</l>
+               <l>When what death parts, ſhall reunite, and then</l>
+               <l>No night that joy will overcloud againe.</l>
+               <closer>
+                  <signed>George Fiſher.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:8"/>
+               <head>On the lamented Death of the truly Honoura<g ref="char:EOLhyphen"/>ble <hi>Francis Pierepont</hi> Eſq.</head>
+               <l>TO thy dear memory, bleſt Soul! I pay</l>
+               <l>This humble tribute; though in ſuch a way</l>
+               <l>As rather doth proclaim my want of skill,</l>
+               <l>(That n'ere ſet foot on high <hi>Pernaſſus</hi> hill,)</l>
+               <l>Than thy great merit. Greif knowes not the art</l>
+               <l>To break that ſilence which might break an heart.</l>
+               <l>My deep Reſentments of thy noble Love,</l>
+               <l>And faithfull freindſhip, I ſo oft did prove,</l>
+               <l>With all thoſe Heavenly virtues did inſpire</l>
+               <l>Thy generous breaſt, with more than common fire</l>
+               <l>I faine would utter, and thereby engage</l>
+               <l>The cold attempts of a declining age,</l>
+               <l>Which may admire thy Candor but diſpaire</l>
+               <l>To match that copy thou haſt drawn ſo faire:</l>
+               <l>Whom not our words, as thy own worth, commends</l>
+               <l>Dear to thy God, thy Country, and thy Freinds.</l>
+               <l>But why do I in vaine ſtrive to rehearſe</l>
+               <l>Thy praiſes in the ligatures of Verſe?</l>
+               <l>I'le leave that work moſt worthy to be done</l>
+               <l>By thoſe in words that not in numbers run,</l>
+               <l>Whoſe task doth lead them in a ſtile more free,</l>
+               <l>T'inſtruct the world how much it loſt in thee.</l>
+               <l>In whoſe example it might plainly read</l>
+               <l>Their Doctrine; and find out the way will lead</l>
+               <l>To be both great and good; whole life could teach</l>
+               <l>What men ſhould do, or what themſelves did preach.</l>
+               <closer>
+                  <signed>
+                     <hi>Vere Harcour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:9"/>
+               <head>To the never dying Memory of that thrice No<g ref="char:EOLhyphen"/>ble perſon and patriot, the Honourable <hi>Fran<g ref="char:EOLhyphen"/>cis Pitrepont <abbr>Eſq</abbr>
+                  </hi> Who departed this Life at <hi>Notting<g ref="char:EOLhyphen"/>ham</hi> the 30th. day of <hi>January,</hi> 1658.</head>
+               <l>IT's ſomewhat to be Nobly borne, and much</l>
+               <l>I'inherit thouſands by the yeare; what ſuch</l>
+               <l>A Birth, and birth-right ſpeakes, i'th' world appeares</l>
+               <l>By the homage paid on all hands unto Peeres,</l>
+               <l>And their Coequalls; whom all men adore,</l>
+               <l>As ſupreme powers: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd to ſay no more,</l>
+               <l>Such civil Adoration is their Due,</l>
+               <l>Which bids that monſtrous Parity Adieu,</l>
+               <l>That All-confounding Monſter, whoſe lean Iaws</l>
+               <l>Gape wide to ſwallow both eſtates and Lawes.</l>
+               <l>Long may the Grandieur of this Nation be</l>
+               <l>Stockt with ſuch Gentry and Nobility,</l>
+               <l>As ſhare the glory of their An'ceſtries,</l>
+               <l>And carry it on to their poſterities.</l>
+               <l>But yet all this at higheſt ſpeakes but low,</l>
+               <l>A worldly glory at the beſt; a ſhow</l>
+               <l>Of earthly influences, which altogether</l>
+               <l>Cannot exceed the Line of this life: neither</l>
+               <l>Adde one cubit to a better. See 'm</l>
+               <l>Nothing'd in death to us, us ſo to them.</l>
+               <l>Tis ſad when great ones have no other birth</l>
+               <l>T' ennoble them, than what they have from th' earth;</l>
+               <l>Better unborne, then not be borne again;</l>
+               <l>The new birth is the nobleſt: there's a vein</l>
+               <l>Of bloud runs in the heart of the Beleiver</l>
+               <l>Beſpeaks him Heavenly borne; and never</l>
+               <l>Doth that Birth faile. So borne doth never dye,</l>
+               <l>But hath in death, Life t' all eternity.</l>
+               <l>
+                  <pb facs="tcp:100656:9"/>How glorious then muſt he be, to whoſe Herſe</l>
+               <l>We ſadly pay the Tribute of this Verſe?</l>
+               <l>Whoſe Noble Lineage, Great Eſtate, and all</l>
+               <l>Co<g ref="char:cmbAbbrStroke">̄</g>tentments flowing from them, he could call</l>
+               <l>Things on this ſide true Happineſs. Elſwhere</l>
+               <l>He ſought, and found that Happines which ne'r</l>
+               <l>Shall end or fade; and whoſe Foundation</l>
+               <l>Th' eternal Spirit layd in Regeneration.</l>
+               <l>True Saving-grace, the Diamond in the Ring,</l>
+               <l>Shin'd bright in his ſweet Nature: Every thing</l>
+               <l>Had ſuch a gracious luſtre in Him, as</l>
+               <l>The <hi>Good</hi> appear'd ſtil with the <hi>Great,</hi> and was</l>
+               <l>Above it rather. His Humilitie</l>
+               <l>Exalted him. Greater you could not ſee</l>
+               <l>Lodg'd in a Noble breaſt. His ſpirit might</l>
+               <l>Be read in's habit; void of Pride, and quite</l>
+               <l>Another thing than vain. Without oſtent</l>
+               <l>Both; for the one was as the other meant.</l>
+               <l>That holy heat of Love, which in his breaſt</l>
+               <l>Faith had enkindled, He with warmth expreſt</l>
+               <l>In's, dear affections to Gods Ordinances,</l>
+               <l>His Miniſters and People. His obſervances</l>
+               <l>Of holy Duties, private and perſonal,</l>
+               <l>Grac'd with his walking anſwerable, were all</l>
+               <l>Fair evidences at the leaſt of his</l>
+               <l>Sinceritie, ne're to fall ſhort of bliſs.</l>
+               <l>Bring forth the perſon, rich, poor, old, or young</l>
+               <l>Can juſtly ſay, He ever did him wrong.</l>
+               <l>Me-thinks I ſee the Country round about</l>
+               <l>In a bemoaning Poſture, groaning out</l>
+               <l>Their ſighs; with this condoling Sympathy,</l>
+               <l>We have loſt our Patriot; and he's miſt already.</l>
+               <l>Me-thinks I hear the City making moan</l>
+               <l>One to another, our beſt Neighbour's gone.</l>
+               <l>The Miniſtry eſpecially; we have loſt</l>
+               <l>A Stay, a Prop, a Patron, and almoſt</l>
+               <l>
+                  <pb facs="tcp:100656:10"/>Our ſelves in loſing Him; who was indeed</l>
+               <l>Our Friend, and ſtil we found him ſo at need.</l>
+               <l>A Friend to Truth and Peace, but no divider,</l>
+               <l>That heal'd our Breaches, never made them wider.</l>
+               <l>How full of Bowels to the Poor? What day</l>
+               <l>Paſs'd without works of Mercy to them? Nay</l>
+               <l>Scarce any Meal, but at his Gates he fed</l>
+               <l>Whole troups of hungry ſouls with daily bread.</l>
+               <l>When Winters cold, or bluſtrings made their ſtay</l>
+               <l>At's Gates leſs comfortable; he would ſay</l>
+               <l>Let in the Poor, and ſerve 'um. If he ſaw</l>
+               <l>Any among them naked, he would draw</l>
+               <l>Out his compaſſions to them, and command</l>
+               <l>Cloaths to be put upon them: His own hand,</l>
+               <l>Rather than fail, would do it. How the knel</l>
+               <l>Theſe rang at's Death out-groan'd the Paſſing-bell.</l>
+               <l>To none an enemy, but to thoſe whoſe ſin</l>
+               <l>Proclaim'd them to be ſo to God: Wherein</l>
+               <l>He could not hold, but with an holy zeal</l>
+               <l>Brake forth, and ſometimes ring an angry Peal.</l>
+               <l>An innocent in doing ought was evil,</l>
+               <l>A very bungler in the works o'th' Devil.</l>
+               <l>A ſoul fitted for Heav'n, where glorious Grace</l>
+               <l>Triumphs with him in's ever-manſion place.</l>
+               <l>His deareſt Conſort then may not return</l>
+               <l>Her comforts back again upon his Urn</l>
+               <l>With ſhowers of Tears which ſtill diſſolve afreſh</l>
+               <l>With thought or mention of his Name: Much leſs</l>
+               <l>Nothing her ſelf with grief. A greater Honour</l>
+               <l>Cannot in this life be conferr'd upon Her</l>
+               <l>Then this of Hers, that ſhe did once poſſeſs</l>
+               <l>All in her dear'ſt ſave endleſs Happineſs.</l>
+               <closer>
+                  <signed>John Viner, of Weſtm.</signed>
+               </closer>
+            </div>
+            <div type="elegies">
+               <pb facs="tcp:100656:10"/>
+               <div xml:lang="lat" type="elegy">
+                  <head>In obitum Nobiliſſimi ac verè cordati viri <hi>Franciſci Pierepont,</hi> Armigeri, <hi>&amp;c.</hi>
+                  </head>
+                  <l>PLurima jam strages agrum confecerat orbem,</l>
+                  <l>Nunc &amp; edax multo funere pinguis humus,</l>
+                  <l>Exemplo quatiente animos, cum nuncia fati</l>
+                  <l>Triſtis, ad exitium tota parata fores,</l>
+                  <l>Pulſaret faciles non immortalis Amici,</l>
+                  <l>Supremam Domino claudere juſſa diem.</l>
+                  <l>Prodit huic Genius, volucris cuſtodia vita,</l>
+                  <l>Ac cupit intrantis ſiſtere poſſe gradum.</l>
+                  <l>Non patet haec (inquit) ſceleratae janua turba:</l>
+                  <l>Improbus haud noſtras auſus adire domos.</l>
+                  <l>Non hic contemni ſe laeſa potentia coeli</l>
+                  <l>Queſta eſt indignis exagitata modis.</l>
+                  <l>Hîc malè confictum nec Religionis amorem</l>
+                  <l>Impietas prae ſe ferre ſuperba ſolet.</l>
+                  <l>Hîc nemo ſocium vix cautum, peſſimus arte,</l>
+                  <l>Prodidit, intactam diſſimulando fidem.</l>
+                  <l>Pauperis oppreſſi non hinc penetralia clamor</l>
+                  <l>Vindicis aſſuevit ſollicitare Dei.</l>
+                  <l>Nullius hîc famam mendaci lividus ore</l>
+                  <l>Polluit indoctus cenſor honeſta loqui.</l>
+                  <l>Nulla caperatam faedat nubecula frontem,</l>
+                  <l>Si fortè alloquiis auris amica vacat.</l>
+                  <l>Non muſis inviſa domus, non grata ſocordi:</l>
+                  <l>Compoſitos juvenes non tulit iſte locus:</l>
+                  <l>Nec ſunt haec Domini crudelis inhoſpita tecta,</l>
+                  <l>Prompta ſed officio gratia fratris adeſt.</l>
+                  <l>Ergo alio concede, tuis nunc parce ſagittis,</l>
+                  <l>Laethalis ſenibus findat arundo latus,</l>
+                  <l>Aut quibus indignas animas ſua corpora geſtant;</l>
+                  <l>Hîc virtus, Pictas, nobilitatis bonos.</l>
+                  <l>
+                     <pb facs="tcp:100656:11"/>Hunc vinum poſci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, hunc uxor; amici;</l>
+                  <l>Hunc cives, dives, pauper ubi<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> jacens,</l>
+                  <l>Quàm voluit Chriſti nova nupta puerpera membrum,</l>
+                  <l>Laetetur ſecum, quod<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſimul doleat;</l>
+                  <l>Vota nihil proſunt; lachrymae nihil; impigra telum</l>
+                  <l>Mors jacit, &amp; medium guttur utrin<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ferit.</l>
+                  <l>Per jugulos humor funeſto ſpargitur aeſtu</l>
+                  <l>Noxius, alliſi pectoris ima gravans:</l>
+                  <l>Donec pars melior, ſedes pertaeſa priores,</l>
+                  <l>Ac gaudens coelo liberiore frui;</l>
+                  <l>Dum nequit ulteriùs molem ſufferre cadentem,</l>
+                  <l>Quae, malè conceptis ignibus uſta, tumet;</l>
+                  <l>Incola carceribus diſploſi corporis ardens</l>
+                  <l>Emicat, angelicis aſſocianda choris.</l>
+                  <l>Jam fatis defuncte, Deo qui charus, ab alto</l>
+                  <l>Subjectam faelix deſpice victor humum;</l>
+                  <l>Ac tutos ſponſi thalamos ingreſſe boati,</l>
+                  <l>Convivae niveâ cingito veſte latus.</l>
+                  <l>Caelicolúmque <hi>pie</hi> primâ <hi>te</hi> claſſe <hi>repone,</hi>
+                  </l>
+                  <l>Dum ſubit infernas impia turba domos.</l>
+               </div>
+               <div xml:lang="eng" type="elegy">
+                  <head>The ſame in Engliſh.</head>
+                  <l>GReat was the havock Death had made,</l>
+                  <l>Whilſt every where men dread a ſhade:</l>
+                  <l>The famiſh'd ground was then full fed</l>
+                  <l>With a rich feaſt of bodies dead;</l>
+                  <l>What time that breathleſs Poſt of Fate</l>
+                  <l>Knocks at our friends attentive gate,</l>
+                  <l>With haſtie ſummons to invite</l>
+                  <l>The man to bid the World goodnight.</l>
+                  <l>The watch, that had the guard that day,</l>
+                  <l>Prevents his ſpeed, and bids him ſtay;</l>
+                  <l>
+                     <pb facs="tcp:100656:11"/>Then holding parley, know (ſaid he)</l>
+                  <l>From lewd companions we are free.</l>
+                  <l>No horrid crimes this houſe doth hide;</l>
+                  <l>Nor is that Heaven-aſſaulting Pride,</l>
+                  <l>Which vainly ſcorns the powers above,</l>
+                  <l>Charg'd here; nor the diſſembled love</l>
+                  <l>Of pure Religion made a paint</l>
+                  <l>To waſh and falſifie a Saint.</l>
+                  <l>Nor may a <hi>Judas</hi> here commend,</l>
+                  <l>Kiſs and betray his fearleſs Friend.</l>
+                  <l>The oppreſſed Poor's vindictive cries</l>
+                  <l>Do not from hence to heaven ariſe.</l>
+                  <l>Detracting envy here muſt raiſe</l>
+                  <l>No damps to poyſon others praiſe.</l>
+                  <l>No ſullen cloud caſt o're the face</l>
+                  <l>Obſcures the entertainers grace.</l>
+                  <l>Which did the Muſes ſo far take,</l>
+                  <l>As made them frequent viſits make;</l>
+                  <l>And bleſs the place from drowſie Fools,</l>
+                  <l>That fill the ſeats in <hi>Bacchus</hi> Schools:</l>
+                  <l>Yet hoſpitable kindneſs feaſts</l>
+                  <l>The civil ever-welcome gueſts.</l>
+                  <l>Then paſs us by, and aim thy darts</l>
+                  <l>At wither'd and out-dated hearts.</l>
+                  <l>Or let thine arrows find out thoſe</l>
+                  <l>Whoſe brutiſh corps like Souls incloſe!</l>
+                  <l>Muſt Virtue, Grace, and noble Birth,</l>
+                  <l>Deſcend into ſepulchrall earth?</l>
+                  <l>And the dear conſort of his life</l>
+                  <l>Be now a Widdow, not a Wife?</l>
+                  <l>And muſt that ſtock be now cut down,</l>
+                  <l>Whoſe branches are ſo fairly grown?</l>
+                  <l>Let theirs, let Friends, and Neighbours teares</l>
+                  <l>Both rich and poor prolong his years!</l>
+                  <l>How faign would Chriſts black comely Bride</l>
+                  <l>This flow'r might ſtill uncrop'd abide;</l>
+                  <l>
+                     <pb facs="tcp:100656:12"/>That they might ſmile and droop together,</l>
+                  <l>Or in Serene or Cloudy weather!</l>
+                  <l>Tears have no force, nor wiſhes power</l>
+                  <l>To intercept the fatal hour.</l>
+                  <l>Death's deaf to all, ſoon ſtrikes a note</l>
+                  <l>That ſounds harſh from his wounded throat.</l>
+                  <l>Now the fell humour doth infeſt</l>
+                  <l>The troubled region of his breaſt,</l>
+                  <l>So long, till the diviner Form,</l>
+                  <l>Not able to ride out the ſtorm,</l>
+                  <l>Fain in ſafe harbour would retire,</l>
+                  <l>And quit the Bark, which all on fire</l>
+                  <l>Is ſoon blown up, and forc'd to Land</l>
+                  <l>Her Pilot on the Ethereal ſtrand.</l>
+                  <l>Unbody'd Saint now ſafely reſt,</l>
+                  <l>From the foul worlds black tempeſts bleſt:</l>
+                  <l>And in the Bridegrooms cloſet dreſs</l>
+                  <l>Thy ſelf with Robes, that may confeſs</l>
+                  <l>A richer glory and more white</l>
+                  <l>Than his that doth eclipſe the light!</l>
+                  <l>With crowned Elders then repoſe</l>
+                  <l>Thy pious ſelf; while graceleſs foes</l>
+                  <l>Sail down the Stream, the Port forſake,</l>
+                  <l>And periſh in th' Inferal Lake.</l>
+                  <closer>
+                     <signed>S. Brunſil.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="elegies">
+               <pb facs="tcp:100656:12"/>
+               <div xml:lang="lat" type="elegy">
+                  <head>In obitum celeberrimi viri <hi>Franciſci Pierepont</hi> Armigeri, Carmen funebre.</head>
+                  <l>
+                     <hi>O</hi> Si vel pietas, vitae candórve moverent</l>
+                  <l>Supremos Divos, Tartareaſve domos!</l>
+                  <l>Si ſummum Ingenium, ſtudium<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> notabile curſum</l>
+                  <l>Fatorum potuit ſiſtere, vivus adhuc,</l>
+                  <l>Et gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us vivis, mortis contempſerat iram</l>
+                  <l>Pierepont, verus Nobilitatis honos.</l>
+                  <l>Sed durae nimium Parcae nec talia curant;</l>
+                  <l>Fatorum rabiem ſiſtere nemo queat,</l>
+               </div>
+               <div xml:lang="eng" type="elegy">
+                  <head>Thus Engliſhed.</head>
+                  <lg>
+                     <l>O That theſe links of Noble Birth, high Parts,</l>
+                     <l>Candor that gave him int'reſt in all hearts;</l>
+                     <l>Bounty inlarged, unſoyl'd integrity,</l>
+                     <l>Wel-temper'd zeal, wel-fixed piety</l>
+                     <l>Had made a chain t'have ty'd th'Immortal gueſt,</l>
+                     <l>His Heav'n-born ſoul to th' Manſion of his breaſt!</l>
+                  </lg>
+                  <lg>
+                     <l>Then the much loved <hi>Pierepont</hi> ſtil ſhould live,</l>
+                     <l>By's own Embalming ſelf-preſervative;</l>
+                     <l>We ſhould not then ſit down by weeping croſſe,</l>
+                     <l>Computing his great worth, and our great loſſe:</l>
+                     <l>This's all we ſay to make the reckoning even,</l>
+                     <l>He though thus good, was not too good for heaven.</l>
+                  </lg>
+                  <closer>
+                     <signed>Laurence Palmer.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:13"/>
+               <head>On the Death of that Honorable and worthy Patriot, <hi>FRANCIS PIEREPONT,</hi> Eſq. Sic flevit <hi>Z. C.</hi>
+               </head>
+               <l>IF to be deeply wiſe, and honeſt too;</l>
+               <l>If to know well to ſpeak, and well to do;</l>
+               <l>If to be learned, and the learned's friend;</l>
+               <l>If much in Alms, nothing in Pride to ſpend;</l>
+               <l>If to grow rich on his own Patrimony,</l>
+               <l>Without the loſs, or grief, or curſe of any;</l>
+               <l>If to profeſs Religion, and withall</l>
+               <l>Not to be dangerous, or ſchiſmatical;</l>
+               <l>If to be noble at th' old Herald's rate,</l>
+               <l>And humbler far than thoſe o'th' muſhroom's date;</l>
+               <l>If to be both in love and blood moſt near</l>
+               <l>To the great <hi>Aeſculapius, Dorcheſter;</hi>
+               </l>
+               <l>If to be Parent, Maſter, Husband, all,</l>
+               <l>As each relations rule doth ſtrictly call;</l>
+               <l>If to attain that heavenly art, to end</l>
+               <l>And umpire ſtrifes, and yet loſe neither friend;</l>
+               <l>If theſe may be eſteem'd a good mans glory,</l>
+               <l>They were conſtellated in <hi>Pierepont's</hi> ſtory:</l>
+               <l>And if theſe loſt at once can make the world</l>
+               <l>Wiſely conſider her laſt ſand is running;</l>
+               <l>(Cauſe ſuch a prop and pillar down is hurl'd)</l>
+               <l>We need no <hi>Sedgwick</hi> t' tell us <hi>[Doomeſday's coming.]</hi>
+               </l>
+               <closer>
+                  <signed>Zach. Cauderey.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:13"/>
+               <head>On the death of the Honourable <hi>Francis Pierepont</hi> Eſq. Third Son of the Right Honourable, <hi>Robert</hi> Earl of <hi>Kingſton.</hi>
+               </head>
+               <l>BUt is he dead? can I believe</l>
+               <l>That he ſhould dye, and we ſhould live?</l>
+               <l>Me-thinks we may the knot untie,</l>
+               <l>Better to live, fitter to dye.</l>
+               <l>Death I ſee doth wiſely chuſe</l>
+               <l>The Gold, but doth the droſs refuſe.</l>
+               <l>If each place had had its right,</l>
+               <l>Thou long ſince hadſt bid's good-night:</l>
+               <l>But now th'art gone, in doubt are we,</l>
+               <l>Whether to joy, or grieve for thee.</l>
+               <l>Our loſs is great, greater thy gain,</l>
+               <l>Our comfort doth exceed our pain:</l>
+               <l>He that writes thy ſad Elegy,</l>
+               <l>Shews more love to himſelf, then thee.</l>
+               <l>Bleſt ſoul! I can no more relate</l>
+               <l>Thy life paſt than thy preſent ſtate:</l>
+               <l>My Pen can onely blot the ſtory</l>
+               <l>Of thy life, and of thy glory.</l>
+               <l>Our all's unwelcome courteſie,</l>
+               <l>At beſt, but wel-meant injury.</l>
+               <l>Long may thine live, and forward grow</l>
+               <l>In Grace, and Goodneſs, for to ſhow</l>
+               <l>The world, that as they bear thy name,</l>
+               <l>They are heirs alſo of thy Fame.</l>
+               <closer>
+                  <signed>Sam. Pickring.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:14"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the praemature and much lamented death of of the Honorable <hi>Francis Pierrepont,</hi> Eſq. deceaſed <hi>January 30, 1657.</hi>
+               </head>
+               <l>AH! Why ſo faſt, great Sir? the ſoul that was but ſent</l>
+               <l>A while agoe, ſo ſoon to quit its Tenement,</l>
+               <l>And leav's, is ſad and ſtrange to us; ſuch ſudden flight</l>
+               <l>Doth cloud our day, and turn it to a darkſom night;</l>
+               <l>And thus it needs muſt do, for though ſome Stars appear,</l>
+               <l>Yet when the Sun is ſet, it's night i'th' Haemiſphere:</l>
+               <l>And ſo it is with us, for ſince our ſad deprival</l>
+               <l>Of thy ſelf, where is thy Compeer, or thy Rival?</l>
+               <l>If to thy birth we caſt our eyes, thou waſt of them</l>
+               <l>Whom well we may call Surcles, ſhot from noble ſtem,</l>
+               <l>In gliſtering beams of Honor, thou did'ſt brightly ſhine,</l>
+               <l>And virtues Pearly Chain, to deck thee, it was thine.</l>
+               <l>With all the gifts and richeſt ornaments of nature</l>
+               <l>Thou waſt ſtor'd, which might adorn and bleſs a creature:</l>
+               <l>The ſev'ral parts of happineſs which ſcattered be</l>
+               <l>In others, all concentred were, and met in thee.</l>
+               <l>Then why ſo faſt away, ſince to make up thy bliſs</l>
+               <l>All things did thus concur? O ſure the cauſe was this,</l>
+               <l>The little Common-wealth of man, like greater States,</l>
+               <l>Hath ſome certain periods ſet, and hidden fates,</l>
+               <l>Heaven's ſtatute-Law ſtands vnreverſt, that all muſt die;</l>
+               <l>But how, or where, or when, we have no certainty.</l>
+               <closer>
+                  <signed>
+                     <hi>Sam Cottes,</hi> of <hi>Collick.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:14"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the much lamented death of the Honorable <hi>Francis Pierrepont,</hi> Eſq.</head>
+               <lg>
+                  <l>WHen Sun is ſet, the Stars by their faint light,</l>
+                  <l>Serve onely for to ſhew us that 'tis night.</l>
+                  <l>Change but the Scene, 'tis we, who now attend,</l>
+                  <l>The doleful Funerals of this noble friend.</l>
+                  <l>Whoſe preſence made it day with us, we knew</l>
+                  <l>No night, till he bad us and th'world adieu.</l>
+                  <l>Surviving friends cannot (though joyn'd) repair</l>
+                  <l>Our loſs, onely tell us how poor we are.</l>
+                  <l>Strangers that live at diſtance can no more</l>
+                  <l>Conceive of it, then we our ſelves before</l>
+                  <l>It did befall us, ſtill ſo ſenſleſs does</l>
+                  <l>Enjoyment make us of what's precious:</l>
+                  <l>But now quick-ſighted ſorrow haſts t'indite</l>
+                  <l>His Epitaph, and dictates thus to write.</l>
+               </lg>
+               <lg>
+                  <l>Here lies the glory of his kinde,</l>
+                  <l>The ſweet compoſure of whoſe minde</l>
+                  <l>Won all that knew him, ſuch it was,</l>
+                  <l>So milde, in it, as in a glaſs,</l>
+                  <l>Others, who would behold, might ſee</l>
+                  <l>Not what they are, but ought to be.</l>
+                  <l>Whom Learning had its Patron (ſad</l>
+                  <l>That we can onely ſay it had.)</l>
+                  <l>In whom impartial Juſtice knew</l>
+                  <l>To diſtribute to each his due.</l>
+                  <l>Happy in reconciling thoſe,</l>
+                  <l>Whom pride, and paſſion had made foes.</l>
+                  <l>A conſtant hearer of the Word:</l>
+                  <l>Though great, he own'd a higher Lord.</l>
+                  <l>Whoſe zeal and prudence you might ſee,</l>
+                  <l>In his well-govern'd Family.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Stay Reader, all's not here expreſt,</hi>
+                  </l>
+                  <l>
+                     <hi>But ſilent grief ſighs out the reſt.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>Richard Grant.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:15"/>
+               <head>On the much lamented death of the truly Honorable <hi>Francis Pierepont,</hi> Eſq.</head>
+               <l>IS mourning grown a faſhion? and a Hearſe</l>
+               <l>Become the common ſubject of a Verſe?</l>
+               <l>Are th'Muſes all cloſe Mourners? and are Tears</l>
+               <l>The onely Pearls which they of late do wear,</l>
+               <l>And drop for Beads over their Graves, to whom</l>
+               <l>In Pilgrimage Poetick feet do come?</l>
+               <l>No wonder then, great Sir, if at your Shrine</l>
+               <l>The Muſes ſhould turn Vo'tries, and combine,</l>
+               <l>There to lament the loſs which they ſuſtain</l>
+               <l>By your ſad death; whoſe ſacred Urn contains</l>
+               <l>Thoſe precious Reliques, which may juſtly call</l>
+               <l>For their attendance at your Funeral.</l>
+               <l>
+                  <hi>Mahomets</hi> Tomb may unfrequented lie,</l>
+               <l>Whilſt yours is viſited by paſſers by;</l>
+               <l>O're which to drop our Tears in Verſe will be,</l>
+               <l>Devotion now, inſtead of Poetry.</l>
+               <l>Doth virtue now prove fatal? Is't a ſign</l>
+               <l>A Star is falling, when it doth out-ſhine</l>
+               <l>It's bright Colleagues? doth a more glorious light</l>
+               <l>Onely portend a ſad approaching Night?</l>
+               <l>Do Pearls diſſolve the ſooneſt? and they die</l>
+               <l>Faſteſt, who beſt deſerve to multiply</l>
+               <l>Their days among us? Do the higheſt Sphears</l>
+               <l>Finiſh their courſe in the leaſt tearm of years?</l>
+               <l>Or have the greateſt Orbs, as well's the leaſt,</l>
+               <l>The Earth their Centre and the place of reſt?</l>
+               <l>Did theſe things ſeem ſo ſtrange to us, that you,</l>
+               <l>Great Sir, are fain to die to prove them true?</l>
+               <l>
+                  <pb facs="tcp:100656:15"/>But if our knowledge at no meaner rate,</l>
+               <l>Can purchſ'd be out of the hands of fate:</l>
+               <l>Than by your loſs, wee'd rather much remain</l>
+               <l>Ignorant ſtill, than at ſuch coſt obtain</l>
+               <l>A demonſtration. Could none elſe be,</l>
+               <l>To us, a patern of mortality?</l>
+               <l>But he whoſe life was ſo much priz'd by thoſe,</l>
+               <l>Who value men by real worth, not ſhews;</l>
+               <l>And can diſtinguiſh by converſe with one,</l>
+               <l>Right watred Diamonds, from a <hi>Briſtol</hi> Stone.</l>
+               <l>Such thoſe knew you to be, who knew you beſt,</l>
+               <l>Whoſe worth was greater then the vulgar teſt</l>
+               <l>Could reach to comprehend; they onely knew</l>
+               <l>So much as to admire, 'twas not one view,</l>
+               <l>Or two, or more, made by a vulgar eye,</l>
+               <l>Would ſerve to take your elevation by.</l>
+               <l>You lov'd not to expoſe your ſelf too much</l>
+               <l>To common view, that you reſerv'd for ſuch,</l>
+               <l>As could diſcern where the diſtinction lies</l>
+               <l>Between pretences and true Piety.</l>
+               <l>You ſcorn'd to proſtitute Religion to</l>
+               <l>The luſts of men, as now too many do,</l>
+               <l>Whoſe conſciences are weather-wiſe, and go</l>
+               <l>Round with the quarter where the wind doth blow.</l>
+               <l>Your blood receiv'd a nobler tincture from</l>
+               <l>Your great endowments, then by what did come</l>
+               <l>Down from your Anceſtors; whoſe virtues too</l>
+               <l>Had the ſame Chanel with their blood to you.</l>
+               <l>Next to your noble Brother, whoſe great worth,</l>
+               <l>Have ſet a Copy to be tranſcrib'd forth</l>
+               <l>By all great Perſons; they may learn by you</l>
+               <l>How to be Noble, Wiſe, and Learned too.</l>
+               <closer>
+                  <signed>
+                     <hi>Edward Stillingfleet,</hi> Fellow of St. <hi>Johns</hi> Coll. <hi>Cambr.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:16"/>
+               <head>On the much lamented death, <hi>&amp;c.</hi>
+               </head>
+               <l>MY coal-black Muſe preſents, gives fire</l>
+               <l>Juſt in my boſom, founds retire</l>
+               <l>To levity. More zealous thence</l>
+               <l>With ſenſe of loſs, and loſs of ſenſe</l>
+               <l>Proceeds to tell how that of late</l>
+               <l>(Such was her paſſion) Church and State</l>
+               <l>Had loſt a light. So ſhe refuſes</l>
+               <l>To be prophane amongſt the Muſes.</l>
+               <l>Such influences Subjects grave,</l>
+               <l>Upon a Poets vein may have,</l>
+               <l>Eſpecially when they are noble duſt,</l>
+               <l>Religious, Charitable, Juſt,</l>
+               <l>Learned and Politick, ſuch compoſitions,</l>
+               <l>Without tautologies and repititions,</l>
+               <l>Can ne're be preſs'd; the Book of Life</l>
+               <l>Is able to decide the ſtrife.</l>
+               <l>O horrid graves, ye can retain</l>
+               <l>But what's your own, no <hi>Pierreponts</hi> brain.</l>
+               <l>I ſummon every heart and hand</l>
+               <l>Within the bounds of Holy Land</l>
+               <l>T'unite their forces, let them know</l>
+               <l>They've loſt a leader, and that now</l>
+               <l>The Church, ſince ſhe is grown more old,</l>
+               <l>Muſt learn to go without a hold.</l>
+               <closer>
+                  <signed>Arthur Squire.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:16" rendition="simple:additions"/>
+               <head>On the memrry of the honorable <hi>Francis Pierrepont Eſq.</hi> (third Son to the right Honorable <hi>Robert</hi> late Earl of <hi>Kingſton</hi>) who exchanged this life for immortality, <hi>January 30. 1657.</hi>
+               </head>
+               <lg>
+                  <l>IF any ask the reaſon, why ſo late</l>
+                  <l>My Muſe a mournful ſong doth meditate,</l>
+                  <l>I'le anſwer at the firſt, ſhe was ſtruck dumb</l>
+                  <l>With petrifying ſtupor: Let her come</l>
+                  <l>To recollect her ſelf, her ſighs and tears</l>
+                  <l>Will amply ſhew the high reſpect ſhe bears</l>
+                  <l>To inſhrin'd vertue and Nobility,</l>
+                  <l>Deriv'd higher then Natures Pedigree.</l>
+                  <l>Hence is 't that brokenly ſhe Verſifies:</l>
+                  <l>(Words in deep ſorrow ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>'t be heard for cries.)</l>
+                  <l>Copartnerſhip alleviates ſufferings;</l>
+                  <l>From ſympathy a much leſs trouble ſprings:</l>
+                  <l>But here ſuch loſers are both Church and State,</l>
+                  <l>They ſcarce ſuffice each to lament her fate,</l>
+                  <l>When ſuch as thou, great ſoul, are ſnacht away,</l>
+                  <l>And ſo both robb'd on the ſame diſmal day.</l>
+                  <l>So that if we lament a Senator</l>
+                  <l>Moſt ſage and faithful, or a Warrior</l>
+                  <l>Steel'd with true valor: While we condole</l>
+                  <l>The maim'd Republick, the Church (as if our ſoul</l>
+                  <l>Were too much ſoakt in Politicks) cries out,</l>
+                  <l>Alas! How is it that you look about</l>
+                  <l>With careleſs mindes? Is't nothing that I want</l>
+                  <l>When ſuch a pillar's ſhrunk? who was not ſcant</l>
+                  <l>In any point, whereby to introduce</l>
+                  <l>
+                     <pb facs="tcp:100656:17"/>Religions pow'r into his houſholds uſe.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or onely acting in a narrow Sphere,</l>
+                  <l>Comes forth in publick, fitter to act there.</l>
+                  <l>Doctrine (methinks) and Diſcipline contend,</l>
+                  <l>Which have in <hi>Pierepont</hi> loſt the greater friend:</l>
+                  <l>Uncertain, which moſt, truths complexion,</l>
+                  <l>Or orders ſymmetry took his affection.</l>
+               </lg>
+               <lg>
+                  <l>Which truly noble Candor, we in vain</l>
+                  <l>May look and wiſh for, not call back again;</l>
+                  <l>Nay rarely finde in any Mortal breſt,</l>
+                  <l>Hence't comes to paſs our friend is gone to reſt.</l>
+                  <l>An Oſtraciſm ejects him out o'th' World,</l>
+                  <l>Which can no longer bear virtue inſtall'd</l>
+                  <l>In ſtate majeſtick; but ſoon tenders up</l>
+                  <l>To Heaven, the overflowing of its cup.</l>
+               </lg>
+               <closer>
+                  <signed>John Tuckney. C. C. J.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:100656:17"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon the Death of the Honourable <hi>Francis Piere<g ref="char:EOLhyphen"/>pont,</hi> Eſq. &amp;c.</head>
+               <l>SHall I be forc'd to dip my Pen</l>
+               <l>In tears, and ſcrible mortal men?</l>
+               <l>Who being mortal, do but nibble</l>
+               <l>At higheſt things, and therefore ſcrible.</l>
+               <l>If any thing ſuch ſubjects might</l>
+               <l>As theſe teach mortals how to write,</l>
+               <l>Make them more perfect, and confeſs</l>
+               <l>Such copies never could doe leſs:</l>
+               <l>But here's the judgement, moſt men hate</l>
+               <l>Such a Text-hand to imitate.</l>
+               <l>I have heard great Sirs vainly boaſt</l>
+               <l>Of Riches, Honours, and their hoſt;</l>
+               <l>I've ſeen that man of merit ſit</l>
+               <l>In <hi>Rome,</hi> and biting on his bit</l>
+               <l>In ſtate, as if by Axiome true</l>
+               <l>He would prove Paradiſe as due,</l>
+               <l>Poor Majeſty; compar'd to ſome</l>
+               <l>Who knew all thoſe no life to come.</l>
+               <l>I have known the learned Rout ſo puft</l>
+               <l>When they (as wind) have knowledge ſnuft,</l>
+               <l>Who in their Rapſodies have been</l>
+               <l>To the third Heaven near a kin;</l>
+               <l>Yet when that pale-fac'd hag did low'r,</l>
+               <l>And ſummon them to flit their bow'r,</l>
+               <l>Could not diſpute; No death to dye,</l>
+               <l>He dyed to live, this was the cry</l>
+               <l>Of him whoſe language yet doth warble</l>
+               <l>Through the cruel, ſpightful Marble</l>
+               <l>
+                  <pb facs="tcp:100656:18"/>(As you paſs by, hark how it breaks</l>
+               <l>Your hearts, when he being dead, yet ſpeaks.</l>
+               <l>His honour doth invite a ſtand,</l>
+               <l>And ev'ry Paſſenger command</l>
+               <l>To know himſelf. Let no man ſpurn,</l>
+               <l>Though ne'r ſo Noble, at his Urn,</l>
+               <l>Except they have a mind to dim</l>
+               <l>Their Honours by diſhonouring him.</l>
+               <l>And while they doe his corps infeſt,</l>
+               <l>Like ſilly birds defile their neſt.</l>
+               <l>But he who thought all this a bubble</l>
+               <l>T' have onely birth, began to double,</l>
+               <l>The ſame with Learning and her charms,</l>
+               <l>Which wel became a <hi>Talbots</hi> Arms,</l>
+               <l>And finding fruitful <hi>Helians</hi> Font,</l>
+               <l>He ſuck'd it, like a <hi>Pierepont.</hi>
+               </l>
+               <l>All Coats of Arms ſo thick, ſo old,</l>
+               <l>Without this lining, are but cold.</l>
+               <l>His moral virtues do preſent</l>
+               <l>To us a richer monument;</l>
+               <l>
+                  <hi>Prudence</hi> her ſelf ſhe did abhor,</l>
+               <l>Not to make him a Senatour,</l>
+               <l>Love to his Countrey made him ſtand</l>
+               <l>Obedient to her ſtrict command:</l>
+               <l>He might have chus'd, but that the beauty,</l>
+               <l>Which doth complexion ſuch a duty,</l>
+               <l>Soon mov'd his temper; 'twas his food</l>
+               <l>To have occaſion to doe good,</l>
+               <l>Without requital, and if a crime</l>
+               <l>Not to grow richer by the time;</l>
+               <l>I blame him that he did ſo halt,</l>
+               <l>Let this be put in for a fault;</l>
+               <l>But above all that which did throw</l>
+               <l>The greateſt luſtre on his brow,</l>
+               <l>That which did crown his temples round,</l>
+               <l>And heav'd his ſoul above the ground,</l>
+               <l>
+                  <pb facs="tcp:100656:18"/>It was the image of his God,</l>
+               <l>To ſome a countenance, ſome a rod</l>
+               <l>That ſhone in him, let Church, let State,</l>
+               <l>Let family, Arts all bear the date,</l>
+               <l>Since that they loſt him. Such a day</l>
+               <l>(Say <hi>Nottingham</hi>) here did they lay</l>
+               <l>His careful head, and ſuch a night</l>
+               <l>(O diſmall!) rent him from our ſight.</l>
+               <l>And when you have bedew'd his herſe</l>
+               <l>With many a dolefull, blear-ey'd verſe:</l>
+               <l>Return, and as you ſoftly walk</l>
+               <l>Confeſs your grief, your ſtones will talk.</l>
+               <l>If you ſay nothing, and conclude</l>
+               <l>'Twas you, not they that were ſo rude.</l>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
